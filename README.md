@@ -11,5 +11,13 @@ Perform arithmetic operations on integers of arbitrary length in C++. This proje
    git clone https://github.com/Kashish708/BigInteger-Calculator-Project-
    ```
 
-3. Compile the code
+2. Compile the code
+   ```
+   g++ main.cpp -o BigInt
+   ```
+3. Run the executable
+   ```
+   ./BigInt
+   ```
+   
    
