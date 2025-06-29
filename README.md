@@ -7,7 +7,9 @@ Perform arithmetic operations on integers of arbitrary length in C++. This proje
 
 ## Setup & Run
 1. Clone the repository
+   ```
    git clone https://github.com/Kashish708/BigInteger-Calculator-Project-
+   ```
 
-2. Compile the code
+3. Compile the code
    
