@@ -4,3 +4,10 @@ Perform arithmetic operations on integers of arbitrary length in C++. This proje
 ## Environment Requirements
 - C++ compiler 
 - C++11 or later standard
+
+## Setup & Run
+1. Clone the repository
+   git clone https://github.com/Kashish708/BigInteger-Calculator-Project-
+
+2. Compile the code
+   
